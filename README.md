@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**chacowang0125/chacowang0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Chaco! A person who never thought that will be attracted to programming and seeing exploring the world as a lifelong mission.
 
-Here are some ideas to get you started:
+## �:thumbsup: My values
+🍏 Beginner in HTML, CSS , Javascript<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔭 Goals of 2021
+I want to be a front-end engineer this year and try to be an iOS-App developer.
+
+## 🧠 That I know and use
+- HTML5
+- CSS3,
+- Bootstrap
+- JavaScript,
+
+
+## :satisfied: Don't worry, it is being updated...
