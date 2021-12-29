@@ -1,19 +1,19 @@
-### Hi there 👋
+### Hi there, I’m Chaco! 👋 
 
 Hi, I'm Chaco! A person who never thought that will be attracted to programming and seeing exploring the world as a lifelong mission.
 
-## �:thumbsup: My values
-🍏 Beginner in HTML, CSS , Javascript<br>
-
-
-## 🔭 Goals of 2021
-I want to be a front-end engineer this year and try to be an iOS-App developer.
+---
+🌱 I’m currently learning Vue.js.
+📝 I irregularly write articles on [Medium](https://iloveb9999.medium.com/).
+📫 Here is my email address chacowang0125@gmail.com
+📄 Know more about me [Linkedin](https://www.linkedin.com/in/rou-xuan-wang-1b33b5229/)
 
 ## 🧠 That I know and use
 - HTML5
-- CSS3,
+- CSS3
 - Bootstrap
-- JavaScript,
+- JavaScript
+- Vue.js
 
-
-## :satisfied: Don't worry, it is being updated...
+## 🔭 Goals
+Being a front-end engineer this year and try to be an iOS-App developer.
